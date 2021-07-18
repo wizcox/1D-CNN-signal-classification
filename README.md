@@ -11,3 +11,7 @@ Applying a Butterworth bandpass filter to mitigate noise.
 Noise-removed data.
 
 ### 1D CNN.ipynb:
+A simple 1-dimensional Convolutional Neural Network, including Max-Min normalization and classification result using 1D CNN.
+
+### fossil1.h5:
+Saved CNN model.
