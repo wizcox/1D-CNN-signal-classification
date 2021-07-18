@@ -7,6 +7,6 @@ Using 1D CNN to classify a small amount of vibration signal data.
 
 * fossil1_filtered.csv: Noise-removed data.
 
-* 1D CNN.ipynb: A simple 1-dimensional Convolutional Neural Network, including Max-Min normalization and classification result using 1D CNN.
+* 1D CNN.ipynb: A simple 1-dimensional Convolutional Neural Network, including Max-Min normalization, signal segmentation and classification result using 1D CNN.
 
 * fossil1.h5: Saved CNN model.
